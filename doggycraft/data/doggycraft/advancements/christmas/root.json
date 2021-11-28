@@ -1,0 +1,23 @@
+{
+    "display": {
+        "title": {
+            "text": "Merry Christmas"
+        },
+        "description": {
+            "text": "Merry Christmas"
+        },
+        "icon": {
+            "item": "minecraft:spruce_sapling"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false,
+        "background": "minecraft:textures/block/snow.png"
+    },
+    "criteria": {
+        "chistmas": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

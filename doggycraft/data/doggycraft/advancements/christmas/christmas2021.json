@@ -1,0 +1,23 @@
+{
+    "parent": "doggycraft:christmas/root",
+    "display": {
+        "title": {
+            "text": "Christmas 2021"
+        },
+        "description": {
+            "text": "Played on Christmas 2021"
+        },
+        "icon": {
+            "item": "minecraft:nether_star"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "criteria": {
+        "christmas2021": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

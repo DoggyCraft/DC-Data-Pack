@@ -1,0 +1,23 @@
+{
+    "parent": "doggycraft:christmas/christmas2022",
+    "display": {
+        "title": {
+            "text": "Christmas 2023"
+        },
+        "description": {
+            "text": "Played on Christmas 2023"
+        },
+        "icon": {
+            "item": "minecraft:nether_star"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "criteria": {
+        "christmas2023": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}
